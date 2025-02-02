@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: c74226e9-5a57-49e9-a090-8c55b57f081f
+      url: https://website.quarto.pub/capb_web
