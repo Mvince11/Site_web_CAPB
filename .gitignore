@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
 
 /.quarto/
+=======
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+/.quarto/
+>>>>>>> d4bb6fa (Initial commit)

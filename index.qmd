@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: "CAPB_web"
 ---
@@ -9,3 +10,16 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 ```{r}
 1 + 1
 ```
+=======
+---
+title: "CAPB_web"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```
+>>>>>>> d4bb6fa (Initial commit)
