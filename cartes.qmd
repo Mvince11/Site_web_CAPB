@@ -30,5 +30,5 @@ toc: true
 
 ## Vulnérabilité des infrastructures aux jours de chaleur ≥ à 35°C
 ::: {.callout-tip collapse="true" icon="false"}
-## Vulnérabilité des infrastructures aux jours de chaleur ≥ à 35°C
+## Cartes des valeurs de références, des projections 2050 et 2100
 :::
