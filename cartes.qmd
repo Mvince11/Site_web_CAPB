@@ -1,0 +1,34 @@
+---
+title: "Cartes"
+date: 2024-12-02
+lang: fr
+lightbox: true
+toc: true
+---
+
+## Vulnérabilité de la population sensible aux vagues de chaleur
+::: {.callout-tip collapse="true" icon="false"}
+## Cartes des valeurs de références, des projections 2050 et 2100
+
+<div style="margin-top: 10px;"></div>
+
+
+### Carte de référence
+![](images/population_vulnerable_chaleur_ref.png){.lightbox}
+[Cliquer ici afin de télécharger la carte au format PDF](pdf/population_vulnerable_chaleur_ref.pdf){target="_blank" style="color: #0a2f0a99; text-decoration:none;"}\
+
+### Carte à l'horizon 2050
+![](images/population_vulnerable_chaleur_2050.png){.lightbox}
+[Cliquer ici afin de télécharger la carte au format PDF](pdf/population_vulnerable_chaleur_2050.pdf){target="_blank"}\
+
+### Carte à l'horizon 2100
+![](images/population_vulnerable_chaleur_2100.png){.lightbox}
+[Cliquer ici afin de télécharger la carte au format PDF](pdf/population_vulnerable_chaleur_2100.pdf){target="_blank"}\
+<div style="margin-top: 10px;"></div>
+
+:::
+
+## Vulnérabilité des infrastructures aux jours de chaleur ≥ à 35°C
+::: {.callout-tip collapse="true" icon="false"}
+## Vulnérabilité des infrastructures aux jours de chaleur ≥ à 35°C
+:::
